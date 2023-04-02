@@ -36,8 +36,3 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-<div align="center">
-  <p>⚡:octocat: “Um Jedi usa a força para conhecimento e defesa, nunca para ataque”: Mestre Yoda :octocat:⚡</p><br>
-  <img align="center"alt=" Mestre Yoda"src="https://c.tenor.com/BuV2Bc5APL4AAAAd/star-wars-cgi-effects.gif"/>
-</div>
